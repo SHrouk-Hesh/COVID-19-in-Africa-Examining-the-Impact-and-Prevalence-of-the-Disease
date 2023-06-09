@@ -28,7 +28,7 @@ We aim to provide information about the COVID-19 virus, including its origins, s
 
 ![image](https://github.com/SHrouk-Hesh/COVID-19-in-Africa-Examining-the-Impact-and-Prevalence-of-the-Disease/assets/121517766/dd3d1021-9194-4803-89cc-86d14076d6d1)
 
-##### In (figure 5), the program prints some advices for the user to avoid Corona virus
+##### In (figure 6), the program prints some advices for the user to avoid Corona virus
 
 ### Discussion & Conclusion 
 First, we constructed a visualization show the dynamics in case of absence of any isolation, quarantine or closure measures, then we compare between age groups. After that, we talked about the effect of exercising social distancing in addition to the existing shutdowns, and the effect of lifting closures and relaxing social distancing after 100 days. Secondly, we conducted a predictive analysis of the COVID-19 pandemic in Africa.
@@ -39,5 +39,5 @@ cases reported in July 2020 are unlikely to be surpassed by those in the next fe
 disproportionately affect different countries in Africa. We expect that even the worst affected among these would report COVID-19 positive cases that are comparable to those other regions of the World. Interestingly, our model predictions were statistically significantly valid for only 18 of the 51 individual African countries for which we predicted the spread of the COVID19 pandemics. Therefore, we encourage everyone (including individuals in African countries) to adhere to the guidelines that are aimed at reducing the spread of the COVID-19 virus.
 
 
-![image](https://github.com/SHrouk-Hesh/COVID-19-in-Africa-Examining-the-Impact-and-Prevalence-of-the-Disease/assets/121517766/cb6ed27e-0657-45da-bbbf-d23c6efb98c9)
 
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fpriooor-l0MYyDa8S9ghzNebm&psig=AOvVaw1oU3C0TUlID9bsxrMu5dg8&ust=1686416227253000&source=images&cd=vfe&ved=2ahUKEwilus-S1Lb_AhWfS0EAHWctBLgQjRx6BAgAEAw
