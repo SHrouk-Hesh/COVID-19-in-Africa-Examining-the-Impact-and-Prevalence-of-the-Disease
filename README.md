@@ -9,7 +9,14 @@ We aim to provide information about the COVID-19 virus, including its origins, s
 ![image](https://github.com/SHrouk-Hesh/COVID-19-in-Africa-Examining-the-Impact-and-Prevalence-of-the-Disease/assets/121517766/2f031867-e7ce-4a56-98ad-f44854f422b2)
 ![image](https://github.com/SHrouk-Hesh/COVID-19-in-Africa-Examining-the-Impact-and-Prevalence-of-the-Disease/assets/121517766/99ea58f0-a3b3-4fa1-a331-e20281b3d79f)
 
-##### In (figure 1), the user knows some statistics about COVID-19 based on World Health Organization website as it gives the user time and date then Total cases, Total deaths, Total recovered, then the user was asked to enter his/her name and age.
+##### In (figure 1 & 2), the user knows some statistics about COVID-19 based on World Health Organization website as it gives the user time and date then Total cases, Total deaths, Total recovered, then the user was asked to enter his/her name and age.
+
+![image](https://github.com/SHrouk-Hesh/COVID-19-in-Africa-Examining-the-Impact-and-Prevalence-of-the-Disease/assets/121517766/8654f072-7115-4f15-ba91-cf81a4902273)
+![image](https://github.com/SHrouk-Hesh/COVID-19-in-Africa-Examining-the-Impact-and-Prevalence-of-the-Disease/assets/121517766/5e58c901-9094-4761-a110-8251f0fe405c)
+
+##### In (figure 2), the user was asked many questions about the symptoms he have like (cough, shor, fever, sore, vomit, have you been in epidemic region, or in contact with person from that region in last 14 days).
+
+
 
 ### Discussion & Conclusion 
 First, we constructed a visualization show the dynamics in case of absence of any isolation, quarantine or closure measures, then we compare between age groups. After that, we talked about the effect of exercising social distancing in addition to the existing shutdowns, and the effect of lifting closures and relaxing social distancing after 100 days. Secondly, we conducted a predictive analysis of the COVID-19 pandemic in Africa.
