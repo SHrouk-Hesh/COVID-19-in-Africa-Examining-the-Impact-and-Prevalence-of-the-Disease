@@ -5,10 +5,12 @@ We aim to provide information about the COVID-19 virus, including its origins, s
 
 ![image](https://github.com/SHrouk-Hesh/COVID-19-in-Africa-Examining-the-Impact-and-Prevalence-of-the-Disease/assets/121517766/c768510c-2d69-4966-bc6c-7c6146301c8e)
 
-Code Outputs: 
+### Code Outputs: 
+![image](https://github.com/SHrouk-Hesh/COVID-19-in-Africa-Examining-the-Impact-and-Prevalence-of-the-Disease/assets/121517766/2f031867-e7ce-4a56-98ad-f44854f422b2)
+![image](https://github.com/SHrouk-Hesh/COVID-19-in-Africa-Examining-the-Impact-and-Prevalence-of-the-Disease/assets/121517766/99ea58f0-a3b3-4fa1-a331-e20281b3d79f)
+In (figure 1), the user knows some statistics about COVID-19 based on World Health Organization website as it gives the user time and date then Total cases, Total deaths, Total recovered, then the user was asked to enter his/her name and age.
 
-
-# Discussion & Conclusion 
+### Discussion & Conclusion 
 First, we constructed a visualization show the dynamics in case of absence of any isolation, quarantine or closure measures, then we compare between age groups. After that, we talked about the effect of exercising social distancing in addition to the existing shutdowns, and the effect of lifting closures and relaxing social distancing after 100 days. Secondly, we conducted a predictive analysis of the COVID-19 pandemic in Africa.
 Our results show that the scale of the pandemic is low across many countries in Africa. Many experts have debated the reason why fewer cases of COVID-19 are
 being reported in Africa. Some have pointed toward the lack of widespread testing of COVID-19, whereas others point towards the African climate. We showed that, on average, most counties in Africa, including Zimbabwe, Malawi, and Benin, have reported fewer than 10,000 COVID-19 cases. Conversely, most European countries
